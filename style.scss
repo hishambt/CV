@@ -16,7 +16,7 @@
     --dark-grey: #444444;
     --line-break: rgb(231, 231, 231);
     --header-height: 190px;
-    --bar-width: 80%;
+    --bar-width: 100%;
 }
 
 body {
@@ -187,7 +187,7 @@ body {
             }
 
             &.left {
-                flex: 0 0 70%;
+                flex: 0 0 69%;
             }
 
             &.border {
